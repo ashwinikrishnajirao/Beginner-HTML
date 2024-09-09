@@ -22,7 +22,7 @@ Welcome to my **Beginner HTML Projects** repository! This collection showcases t
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ashwinikrishnajirao/beginner-html-projects.git](https://github.com/ashwinikrishnajirao/Beginner-HTML.git)
+   git clone https://github.com/ashwinikrishnajirao/Beginner-HTML.git
    ```
 
 2. Navigate to each project folder and open the `index.html` file in your web browser to view the project.
