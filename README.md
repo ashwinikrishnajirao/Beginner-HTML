@@ -31,4 +31,4 @@ Welcome to my **Beginner HTML Projects** repository! This collection showcases t
 
 These projects serve as milestones in my journey of learning HTML and web development. They reflect my understanding of HTML form creation, basic JavaScript interactions, and web page structuring.
 
-Feel free to explore and modify the code! Suggestions and feedback are welcome.
+Feel free to explore and modify the code! These are my old projects, so no more enhancements will be made from my end.
